@@ -1,6 +1,6 @@
 title: Bilal Djebbar
 logo: /asset/img/headshot_circle.png
 #description: text below image
-show_downloads: true
+show_downloads: fulse
 theme: jekyll-theme-minimal
 Language: English
