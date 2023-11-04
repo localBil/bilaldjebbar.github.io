@@ -1,5 +1,3 @@
-# bilaldjebbar.github.io
-My Portfolio
 # Senior Technician
 
 #### Technical Skills: Python, SQL, html, css, php, illustrator, photoshop
