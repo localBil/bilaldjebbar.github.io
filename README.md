@@ -1,11 +1,11 @@
 # Senior Technician
 
-#### Technical Skills: Python, SQL, html, css, php, illustrator, photoshop
+### Technical Skills: Python, SQL, html, css, php, illustrator, photoshop
 
 ## Education
-**Institut National des Arts et Industries Graphiques Khalil Zyat Blida (_Feb 2019-May 2022_)**
--Diploma in IT option: web and media developper								       		
-**Institut Genilog, Oum El Bouaghi (_December 2009_)**	 			        		
+**Institut National des Arts et Industries Graphiques Khalil Zyat Blida (_Feb 2019-May 2022_)** <br>
+-Diploma in IT option: web and media developper		<br>						       		
+**Institut Genilog, Oum El Bouaghi (_December 2009_)**	<br> 			        		
 -Certificate in Informatic Microsoft Office
 -Certificate of participation in Africa Code week Workshop
 
