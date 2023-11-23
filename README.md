@@ -13,7 +13,7 @@
 **IT: Web and Media Developer (_Feb 2021 - Dec 2022_)**
 **Public Establishment Of Health And Proximity**
 - create an website for an clinic poblic to help them to fix the problem for the apointment and create an data base for all department and services with information doctors  (Html,Css,Javascript,Php,Mysql).
-- 
+
 **Graphic Design AND IT (_Marsh 2020 - December 2022_)**
 **Office Of Etablishments of Youth**
 - responsible for an industrial digital printer for large format
