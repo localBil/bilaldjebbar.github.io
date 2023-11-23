@@ -20,7 +20,6 @@
 solvent tarpaulin media annd i Create visual content for social media posts 
 - Perform daily IT support for employees. 
 
-
 **Graphic Design AND IT (_Feb 2013 - December 2016_)**
 **Office Of Etablishments of Youth**
 - Install and configure software for business operations (Windows 10,
